@@ -3,30 +3,30 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "icons/Icon-512.png": "bd7c53cef3b27310a4d0e6fa2ae09235",
+  "main.dart.js": "e2707cec55976afee616ccf9c8f5dd5c",
 "icons/Icon-192.png": "8cb231536ebf65e661c0a64950f372df",
-"manifest.json": "65816fb126a8ae763eb2ba021edc348d",
-"assets/packages/mdi/fonts/materialdesignicons-webfont.ttf": "8ed8f0719def123d77bf6ea8919b8d8a",
-"assets/NOTICES": "6188e2c02765a2df78c8750cdb8f5787",
+"icons/Icon-512.png": "bd7c53cef3b27310a4d0e6fa2ae09235",
+"assets/NOTICES": "8a3c537dd031a34f7aac5e0b628db2bb",
+"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/FontManifest.json": "4e11ef30ec93f9421314ccd8a78a4c1b",
+"assets/AssetManifest.json": "c1befd62b3a5fcf089d384fbe1a049b3",
 "assets/assets/icons/mastodon.png": "ef0b1e7ef3f21fbf2687fd4fde361878",
-"assets/assets/icons/pleroma.png": "e42f18d80d5ba7dfe059a32862cd9931",
 "assets/assets/icons/misskey.png": "07c45903c2dfcbef0d87ff2e1f21fd28",
+"assets/assets/icons/pleroma.png": "e42f18d80d5ba7dfe059a32862cd9931",
 "assets/assets/icons/4.0x/mastodon.png": "3fcf81eda3eecef6405722bd5404f2eb",
-"assets/assets/icons/4.0x/pleroma.png": "78a367aaa31973cf637ae1ef46c2619d",
 "assets/assets/icons/4.0x/misskey.png": "920158673866ec5a1315d6f3410602f3",
-"assets/assets/fonts/Quicksand-Medium.ttf": "865b25e449878b6b4d1f9e098ff2f510",
+"assets/assets/icons/4.0x/pleroma.png": "78a367aaa31973cf637ae1ef46c2619d",
+"assets/assets/fonts/Quicksand-Regular.ttf": "216d43ee8707910af457af569eda1dec",
+"assets/assets/fonts/Quicksand-SemiBold.ttf": "c82b184bf7450e14adccb7b0d6117474",
 "assets/assets/fonts/Quicksand-Light.ttf": "188ca708e4cbbbe3837c3d904b8eeb61",
 "assets/assets/fonts/Quicksand-Bold.ttf": "0738679df4cf4e566f60343830da7bfa",
-"assets/assets/fonts/Quicksand-SemiBold.ttf": "c82b184bf7450e14adccb7b0d6117474",
-"assets/assets/fonts/Quicksand-Regular.ttf": "216d43ee8707910af457af569eda1dec",
-"assets/AssetManifest.json": "c1befd62b3a5fcf089d384fbe1a049b3",
-"assets/FontManifest.json": "4e11ef30ec93f9421314ccd8a78a4c1b",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"index.html": "5e61fdea2806abb2c55856f6b05f4d11",
-"/": "5e61fdea2806abb2c55856f6b05f4d11",
+"assets/assets/fonts/Quicksand-Medium.ttf": "865b25e449878b6b4d1f9e098ff2f510",
+"assets/packages/mdi/fonts/materialdesignicons-webfont.ttf": "8ed8f0719def123d77bf6ea8919b8d8a",
 "version.json": "a1e9fd2e7ee061e06c8adbe99a346e30",
-"main.dart.js": "e36d3ea07469e979fbaac725661e1134",
-"favicon.png": "62fd7ac82eaa660984f42673ad00debf"
+"manifest.json": "65816fb126a8ae763eb2ba021edc348d",
+"favicon.png": "62fd7ac82eaa660984f42673ad00debf",
+"index.html": "0b466fe86526996ed65f1eae757e618e",
+"/": "0b466fe86526996ed65f1eae757e618e"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -170,7 +170,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }
