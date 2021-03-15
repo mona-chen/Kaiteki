@@ -22,8 +22,8 @@ const RESOURCES = {
 "assets/AssetManifest.json": "c1befd62b3a5fcf089d384fbe1a049b3",
 "assets/packages/mdi/fonts/materialdesignicons-webfont.ttf": "8ed8f0719def123d77bf6ea8919b8d8a",
 "assets/FontManifest.json": "4e11ef30ec93f9421314ccd8a78a4c1b",
-"index.html": "4380bb489486047ec089f061308838b8",
-"/": "4380bb489486047ec089f061308838b8",
+"index.html": "2b357b3e389e1223c085985b14af0da0",
+"/": "2b357b3e389e1223c085985b14af0da0",
 "main.dart.js": "0198c5ae21d7e5b81fd027beee50a26a",
 "version.json": "a1e9fd2e7ee061e06c8adbe99a346e30",
 "favicon.png": "62fd7ac82eaa660984f42673ad00debf"
