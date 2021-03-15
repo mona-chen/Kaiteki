@@ -28,8 +28,8 @@ const RESOURCES = {
 "assets/AssetManifest.json": "84bd509faefb357c536e9af80cefa6bb",
 "assets/packages/mdi/fonts/materialdesignicons-webfont.ttf": "8ed8f0719def123d77bf6ea8919b8d8a",
 "assets/FontManifest.json": "4e11ef30ec93f9421314ccd8a78a4c1b",
-"index.html": "8711ea1ae7cfe25516424b8aa2b11b09",
-"/": "8711ea1ae7cfe25516424b8aa2b11b09",
+"index.html": "51f323aec561010333c9441ad348b715",
+"/": "51f323aec561010333c9441ad348b715",
 "main.dart.js": "4e84dcbf0a8772c8a564002f8597e441",
 "version.json": "a1e9fd2e7ee061e06c8adbe99a346e30",
 "favicon.png": "62fd7ac82eaa660984f42673ad00debf"
