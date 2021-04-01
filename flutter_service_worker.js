@@ -7,12 +7,12 @@ const RESOURCES = {
 "icons/Icon-192.png": "8cb231536ebf65e661c0a64950f372df",
 "favicon.png": "62fd7ac82eaa660984f42673ad00debf",
 "manifest.json": "65816fb126a8ae763eb2ba021edc348d",
-"index.html": "1a3f92196249c4c512f10312ae31d695",
-"/": "1a3f92196249c4c512f10312ae31d695",
+"index.html": "3563aa987f961e8bd8003cd6c562f055",
+"/": "3563aa987f961e8bd8003cd6c562f055",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/mdi/fonts/materialdesignicons-webfont.ttf": "8ed8f0719def123d77bf6ea8919b8d8a",
+"assets/packages/mdi/fonts/materialdesignicons-webfont.ttf": "3e722fd57a6db80ee119f0e2c230ccff",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
-"assets/NOTICES": "e22e89d050a53f0f4e917675120a48a3",
+"assets/NOTICES": "ff1ad99ff37c0a375a91c1dd1dce8a34",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/AssetManifest.json": "5e8b03ec9f67a5441d243c1ba71ee6a4",
 "assets/assets/icons/misskey.png": "391919b01109e067373dd59f6903f856",
@@ -33,7 +33,7 @@ const RESOURCES = {
 "assets/assets/fonts/Quicksand-Medium.ttf": "865b25e449878b6b4d1f9e098ff2f510",
 "assets/assets/fonts/Quicksand-Regular.ttf": "216d43ee8707910af457af569eda1dec",
 "assets/FontManifest.json": "2ee1ba824c53a9a789ecf52dbe725a55",
-"main.dart.js": "986ae1687996e79570249dc3ac793313",
+"main.dart.js": "e3bb47d8f1793c88f1bdece724a55921",
 "version.json": "a1e9fd2e7ee061e06c8adbe99a346e30"
 };
 
