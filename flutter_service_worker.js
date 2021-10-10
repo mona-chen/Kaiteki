@@ -7,6 +7,7 @@ const RESOURCES = {
 "favicon.png": "4d0f0dd24e16e8faf0f281ac7a6184c7",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "6369a96986e7d2b671a39918b5669dcf",
+"assets/assets/icon.png": "e04dce73ab46eab84142c7e84f39f671",
 "assets/assets/fonts/Quicksand-Medium.ttf": "865b25e449878b6b4d1f9e098ff2f510",
 "assets/assets/fonts/Quicksand-Bold.ttf": "0738679df4cf4e566f60343830da7bfa",
 "assets/assets/fonts/Quicksand-Light.ttf": "188ca708e4cbbbe3837c3d904b8eeb61",
@@ -25,16 +26,16 @@ const RESOURCES = {
 "assets/assets/icons/pleroma.png": "e42f18d80d5ba7dfe059a32862cd9931",
 "assets/assets/icons/mastodon.png": "ef0b1e7ef3f21fbf2687fd4fde361878",
 "assets/FontManifest.json": "2ee1ba824c53a9a789ecf52dbe725a55",
-"assets/AssetManifest.json": "77b7c879a66c1b000d0a7b9e6f93e37c",
+"assets/AssetManifest.json": "7cf51961c05b16ba3467ef1c9aa3291b",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/packages/mdi/fonts/materialdesignicons-webfont.ttf": "3e722fd57a6db80ee119f0e2c230ccff",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "icons/Icon-192.png": "3085b1c8c1d08ac482565de303a22738",
 "icons/Icon-512.png": "ce0508068793596479df2fc4e338712c",
-"main.dart.js": "bcb632593ed2d1c9ef603fe58ad66568",
+"main.dart.js": "0591f69193eb773c2c1f319430145f3c",
 "manifest.json": "596707d76693ed5eecba572d1f59f2c7",
-"index.html": "3ea44d9fa2533a463bd770dbb39107e2",
-"/": "3ea44d9fa2533a463bd770dbb39107e2"
+"index.html": "58a0955410cdaa1b0ce4cc554562dfd2",
+"/": "58a0955410cdaa1b0ce4cc554562dfd2"
 };
 
 // The application shell files that are downloaded before a service worker can
