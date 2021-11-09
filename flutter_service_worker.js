@@ -22,8 +22,8 @@ const RESOURCES = {
 "icons/monochrome_icon_x16.png": "8f1ca974aadfea0b34b94e113cb04597",
 "icons/monochrome_icon_x48.png": "8f1ca974aadfea0b34b94e113cb04597",
 "favicon.png": "4d0f0dd24e16e8faf0f281ac7a6184c7",
-"index.html": "4b4c06ee476c617c260191a5f4ccac44",
-"/": "4b4c06ee476c617c260191a5f4ccac44",
+"index.html": "429279e0d908a6accc21641ae05e9d5b",
+"/": "429279e0d908a6accc21641ae05e9d5b",
 "manifest.json": "fe7608ae5068211a0280b44b0f46c280",
 "version.json": "a1e9fd2e7ee061e06c8adbe99a346e30",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -48,11 +48,12 @@ const RESOURCES = {
 "assets/assets/icons/4.0x/misskey.png": "a3e092106e38ccd20fd6f923c96011d8",
 "assets/assets/icons/4.0x/pleroma.png": "78a367aaa31973cf637ae1ef46c2619d",
 "assets/assets/icons/4.0x/mastodon.png": "3fcf81eda3eecef6405722bd5404f2eb",
+"assets/assets/icons/husky.png": "6e0caa82979cead1222db0418c2159e1",
 "assets/assets/icons/mastodon.png": "ef0b1e7ef3f21fbf2687fd4fde361878",
 "assets/assets/icon.png": "e04dce73ab46eab84142c7e84f39f671",
 "assets/assets/instances.json": "72d8cf9c3d6fc34d9b7225191af1de26",
-"assets/AssetManifest.json": "4c79c3d337035c65a36f97fcfd603d21",
-"main.dart.js": "6887048dd6053dd5aae91a825f4f9175"
+"assets/AssetManifest.json": "839d5ace27f95b5bc4c94693e5761654",
+"main.dart.js": "9fe56a0dd45278a29857f7f6bd3f9db6"
 };
 
 // The application shell files that are downloaded before a service worker can
