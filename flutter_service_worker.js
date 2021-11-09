@@ -22,8 +22,8 @@ const RESOURCES = {
 "icons/monochrome_icon_x16.png": "8f1ca974aadfea0b34b94e113cb04597",
 "icons/monochrome_icon_x48.png": "8f1ca974aadfea0b34b94e113cb04597",
 "favicon.png": "4d0f0dd24e16e8faf0f281ac7a6184c7",
-"index.html": "40c31f74d3e89da38f85a668215a8918",
-"/": "40c31f74d3e89da38f85a668215a8918",
+"index.html": "66b904cb0a8a44f8b8a54a5a49e86499",
+"/": "66b904cb0a8a44f8b8a54a5a49e86499",
 "manifest.json": "fe7608ae5068211a0280b44b0f46c280",
 "version.json": "a1e9fd2e7ee061e06c8adbe99a346e30",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -52,7 +52,7 @@ const RESOURCES = {
 "assets/assets/icon.png": "e04dce73ab46eab84142c7e84f39f671",
 "assets/assets/instances.json": "72d8cf9c3d6fc34d9b7225191af1de26",
 "assets/AssetManifest.json": "4c79c3d337035c65a36f97fcfd603d21",
-"main.dart.js": "9644f733ba93e21b576a48710132b1be"
+"main.dart.js": "47be6701d170b70570523ee070c3dcd1"
 };
 
 // The application shell files that are downloaded before a service worker can
