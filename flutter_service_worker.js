@@ -8,8 +8,8 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"index.html": "d15fd54a8b2c6e4b279bbf1528909ef9",
-"/": "d15fd54a8b2c6e4b279bbf1528909ef9",
+"index.html": "d48e8ea5f33feb67bd90f295b6f33d13",
+"/": "d48e8ea5f33feb67bd90f295b6f33d13",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/maskable_icon_x72.png": "a821bc87035601e8badb96d7916f409d",
 "icons/monochrome_icon_x96.png": "8f1ca974aadfea0b34b94e113cb04597",
@@ -74,8 +74,8 @@ const RESOURCES = {
 "assets/packages/widgetbook/google_fonts/Nunito-Light.ttf": "038291099699a91e5486d90f6865865b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/mdi/fonts/materialdesignicons-webfont.ttf": "3e722fd57a6db80ee119f0e2c230ccff",
-"assets/NOTICES": "82e41b910c7536e04663f357fb4ce3a5",
-"main.dart.js": "5eeb47102cd46dc3c1cd25fef84b21bc"
+"assets/NOTICES": "24d3531f1eb97bda28c4301aca0b4be6",
+"main.dart.js": "b609962a6c928b81b98ddee6994b30c8"
 };
 
 // The application shell files that are downloaded before a service worker can
