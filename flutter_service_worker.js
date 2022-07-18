@@ -44,7 +44,7 @@ const RESOURCES = {
 "assets/packages/widgetbook/google_fonts/Nunito-Bold.ttf": "1387652ed98293a3e2b6639d21d2dd40",
 "assets/packages/widgetbook/google_fonts/Nunito-Regular.ttf": "1c030dd4e715ec504fe4925864f023fe",
 "assets/packages/widgetbook/google_fonts/Nunito-Italic.ttf": "b8e5eda1dd4207b4f7488718bf1b13f9",
-"assets/NOTICES": "24d3531f1eb97bda28c4301aca0b4be6",
+"assets/NOTICES": "c871d992c3adf0382ef31f085538791e",
 "assets/AssetManifest.json": "3368a2add2c787001feb50a64d06cfc4",
 "assets/FontManifest.json": "90a3fc055456d3847fc27c264ebd04ea",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -72,10 +72,10 @@ const RESOURCES = {
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"index.html": "b17459078db7752ccb2edf4314deb97c",
-"/": "b17459078db7752ccb2edf4314deb97c",
+"index.html": "7dcc646606dfb1097c8c9239d4a033f2",
+"/": "7dcc646606dfb1097c8c9239d4a033f2",
 "favicon.png": "4d0f0dd24e16e8faf0f281ac7a6184c7",
-"main.dart.js": "c4ae78520bd20dae4c0166a94879fe70"
+"main.dart.js": "236afb28768193f49247bbea6be8a542"
 };
 
 // The application shell files that are downloaded before a service worker can
