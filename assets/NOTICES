@@ -9296,6 +9296,8 @@ SOFTWARE.
 --------------------------------------------------------------------------------
 flutter_riverpod
 riverpod
+riverpod_annotation
+riverpod_generator
 state_notifier
 
 MIT License
