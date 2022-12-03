@@ -29,7 +29,7 @@ const RESOURCES = {
 "assets/assets/icons/4.0x/pleroma.png": "78a367aaa31973cf637ae1ef46c2619d",
 "assets/assets/icons/pleroma.png": "e42f18d80d5ba7dfe059a32862cd9931",
 "assets/assets/instances.json": "1e3c7327339b6eb05f286b6821bf03c0",
-"assets/NOTICES": "8f013e27753ccd10e9934fedc7008e51",
+"assets/NOTICES": "f1d2442326dfb2374ae944f55f8e0014",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/FontManifest.json": "2ee1ba824c53a9a789ecf52dbe725a55",
 "assets/AssetManifest.json": "a25e76c8636d605376a0b9d95cf79784",
@@ -40,8 +40,8 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
-"index.html": "1689596d9da0453644a9320ae6d8b8b3",
-"/": "1689596d9da0453644a9320ae6d8b8b3",
+"index.html": "3b73fa0b8496663ef72fd0e71247ae7a",
+"/": "3b73fa0b8496663ef72fd0e71247ae7a",
 "version.json": "a9c38837cf7157343a06ce5c0e767510",
 "manifest.json": "3d207c80129d9c56e05666c72b4a3ae2",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
@@ -72,7 +72,7 @@ const RESOURCES = {
 "icons/icon_x192.png": "3085b1c8c1d08ac482565de303a22738",
 "icons/monochrome_icon_x96.png": "8f1ca974aadfea0b34b94e113cb04597",
 "icons/maskable_icon_x96.png": "29a96f6de5782f2dd09d2830e6153085",
-"main.dart.js": "4783c3873e145113569452ec39b04d20"
+"main.dart.js": "d19ee8ed5d87a721ba599b366f5a4b68"
 };
 
 // The application shell files that are downloaded before a service worker can
