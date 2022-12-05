@@ -40,8 +40,8 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
-"index.html": "eddf85a84d54c293589ac1d3e95517b1",
-"/": "eddf85a84d54c293589ac1d3e95517b1",
+"index.html": "fe896661117ba8006dde49f7259dd928",
+"/": "fe896661117ba8006dde49f7259dd928",
 "version.json": "a9c38837cf7157343a06ce5c0e767510",
 "manifest.json": "3d207c80129d9c56e05666c72b4a3ae2",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
@@ -72,7 +72,7 @@ const RESOURCES = {
 "icons/icon_x192.png": "bba0629a57cb637e792cd94c6272b84e",
 "icons/monochrome_icon_x96.png": "8f1ca974aadfea0b34b94e113cb04597",
 "icons/maskable_icon_x96.png": "e833f75c2f9c0d2802f443e496b41586",
-"main.dart.js": "6b2101192b87c11be0d85f466b1c5f6c"
+"main.dart.js": "73244f7d2c7ea9892e40b530cadc00e1"
 };
 
 // The application shell files that are downloaded before a service worker can
