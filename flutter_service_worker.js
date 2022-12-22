@@ -13,7 +13,7 @@ const RESOURCES = {
 "splash/img/light-1x.png": "7d1c425a8dbc1cd7e8367b47fb346713",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
 "splash/style.css": "a475ea2712e1d2e823cce293984d17cd",
-"main.dart.js": "e35d10fb432f359003394783dc408e30",
+"main.dart.js": "3c3e3d28ca636e177c5dbae502958498",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
@@ -69,9 +69,9 @@ const RESOURCES = {
 "assets/assets/fonts/Quicksand-SemiBold.ttf": "c82b184bf7450e14adccb7b0d6117474",
 "assets/assets/fonts/Quicksand-Medium.ttf": "865b25e449878b6b4d1f9e098ff2f510",
 "assets/assets/oauth-success.html": "2eae47cadd2aaa96b32d6a46844b969d",
-"assets/NOTICES": "6a7da5b427f0b848cb5076e9d7cd7303",
-"index.html": "178306a04817da122ce9500d46cf1569",
-"/": "178306a04817da122ce9500d46cf1569",
+"assets/NOTICES": "8f3eb2eb92d6be539422b08618a657fb",
+"index.html": "9a46d66d6decd6dd98ba329b451e3edb",
+"/": "9a46d66d6decd6dd98ba329b451e3edb",
 "favicon.png": "4d0f0dd24e16e8faf0f281ac7a6184c7",
 "version.json": "a9c38837cf7157343a06ce5c0e767510"
 };
