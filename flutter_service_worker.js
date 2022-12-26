@@ -69,8 +69,8 @@ const RESOURCES = {
 "assets/assets/fonts/Quicksand-Medium.ttf": "865b25e449878b6b4d1f9e098ff2f510",
 "assets/assets/oauth-success.html": "2eae47cadd2aaa96b32d6a46844b969d",
 "assets/NOTICES": "c92a098db6bc5fbb5f3c19f7632ed91b",
-"index.html": "1dd056848cf22d4fae074370bd904088",
-"/": "1dd056848cf22d4fae074370bd904088",
+"index.html": "393171e9b25311e4f1bdd9b8e5b84f1c",
+"/": "393171e9b25311e4f1bdd9b8e5b84f1c",
 "favicon.png": "4d0f0dd24e16e8faf0f281ac7a6184c7",
 "version.json": "a9c38837cf7157343a06ce5c0e767510"
 };
