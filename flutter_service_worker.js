@@ -13,7 +13,7 @@ const RESOURCES = {
 "splash/img/light-1x.png": "7d1c425a8dbc1cd7e8367b47fb346713",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
 "splash/style.css": "a475ea2712e1d2e823cce293984d17cd",
-"main.dart.js": "c1c25d82c0077bb77bac20d3edef6f8b",
+"main.dart.js": "fa9adb7ec93731d6765e546432184537",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
@@ -69,10 +69,10 @@ const RESOURCES = {
 "assets/assets/fonts/Quicksand-Medium.ttf": "865b25e449878b6b4d1f9e098ff2f510",
 "assets/assets/oauth-success.html": "2eae47cadd2aaa96b32d6a46844b969d",
 "assets/NOTICES": "8cc2fbe81df0606ea4431bea108c09db",
-"index.html": "3bab4f80dd79c142a339655777a71841",
-"/": "3bab4f80dd79c142a339655777a71841",
+"index.html": "b4518e68d57467463fc369c341629dfb",
+"/": "b4518e68d57467463fc369c341629dfb",
 "favicon.png": "4d0f0dd24e16e8faf0f281ac7a6184c7",
-"version.json": "b4a537d527aa2312c8194d48fea4f440"
+"version.json": "7209102ec49f572de4f487986623ece7"
 };
 
 // The application shell files that are downloaded before a service worker can
