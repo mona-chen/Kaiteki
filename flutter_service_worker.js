@@ -13,7 +13,7 @@ const RESOURCES = {
 "splash/img/light-1x.png": "7d1c425a8dbc1cd7e8367b47fb346713",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
 "splash/style.css": "a475ea2712e1d2e823cce293984d17cd",
-"main.dart.js": "fa9adb7ec93731d6765e546432184537",
+"main.dart.js": "1f27e953ac547a44bfd675c0722c4dd4",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
@@ -45,7 +45,7 @@ const RESOURCES = {
 "assets/packages/mdi/fonts/materialdesignicons-webfont.ttf": "3e722fd57a6db80ee119f0e2c230ccff",
 "assets/FontManifest.json": "2ee1ba824c53a9a789ecf52dbe725a55",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/assets/instances.json": "1e3c7327339b6eb05f286b6821bf03c0",
+"assets/assets/instances.json": "8d51ad87c63ec23d57b607ae7ae7c23f",
 "assets/assets/icon.png": "d2ad2e9857f536f6513f243f0ebf50fb",
 "assets/assets/icons/twitter.png": "4a93a2283fedcf3cf322626d1d02358a",
 "assets/assets/icons/mastodon.png": "ef0b1e7ef3f21fbf2687fd4fde361878",
@@ -68,11 +68,11 @@ const RESOURCES = {
 "assets/assets/fonts/Quicksand-SemiBold.ttf": "c82b184bf7450e14adccb7b0d6117474",
 "assets/assets/fonts/Quicksand-Medium.ttf": "865b25e449878b6b4d1f9e098ff2f510",
 "assets/assets/oauth-success.html": "2eae47cadd2aaa96b32d6a46844b969d",
-"assets/NOTICES": "8cc2fbe81df0606ea4431bea108c09db",
-"index.html": "b4518e68d57467463fc369c341629dfb",
-"/": "b4518e68d57467463fc369c341629dfb",
+"assets/NOTICES": "263109ac60150f3ab94f2c54a24f2692",
+"index.html": "343fa4fc610a8f5352f827678f2490c4",
+"/": "343fa4fc610a8f5352f827678f2490c4",
 "favicon.png": "4d0f0dd24e16e8faf0f281ac7a6184c7",
-"version.json": "7209102ec49f572de4f487986623ece7"
+"version.json": "5294357ffec01a12c8512f065a0c08e6"
 };
 
 // The application shell files that are downloaded before a service worker can
